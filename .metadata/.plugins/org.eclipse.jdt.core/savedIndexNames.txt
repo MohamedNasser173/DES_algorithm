@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+E:\FCAI\4-term 1\security\tasks\Task2-DES\.metadata\.plugins\org.eclipse.jdt.core
